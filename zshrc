@@ -16,3 +16,4 @@ SPACESHIP_PROMPT_ORDER=(
 ////////Plugins Terminal - ZPlugin - ////////
 zplugin light zsh-users/zsh-autosuggestions
 zplugin light zsh-users/zsh-completions
+zplugin light zdharma/fast-syntax-highlighting
